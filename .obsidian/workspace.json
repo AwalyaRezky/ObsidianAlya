@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Praktikum klmpk yg tdk hadir.md",
+                "file": "PHP/Pengenalan PHP.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Praktikum klmpk yg tdk hadir.md",
+                "file": "PHP/Pengenalan PHP.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Praktikum klmpk yg tdk hadir.md",
+                "file": "PHP/Pengenalan PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Praktikum klmpk yg tdk hadir.md"
+                "file": "PHP/Pengenalan PHP.md"
               }
             }
           }
@@ -182,15 +182,15 @@
       "notion-like-tables:Create loom": false
     }
   },
-  "active": "b6ee601328398cfc",
+  "active": "08e4fc991cd19b50",
   "lastOpenFiles": [
-    "PHP/ASET/function.png",
     "PHP/PHP MY SQL.md",
     "PHP/Pengenalan PHP.md",
+    "Praktikum klmpk yg tdk hadir.md",
+    "PHP/ASET/function.png",
     "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
     "PHP.zip",
     "BASIS DATA/Pengenalan Basis Data.md",
-    "Praktikum klmpk yg tdk hadir.md",
     "asetklm/tabel2.png",
     "asetklm/tabel1.png",
     "asetklm/q9.png",
@@ -200,7 +200,6 @@
     "asetklm/q3.png",
     "asetklm/q2.png",
     "asetklm/q14.png",
-    "asetklm/q13.png",
     "asetklm",
     "asetphp",
     "BASIS DATA/SELECT LANJUTAN.md",
