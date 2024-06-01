@@ -1911,8 +1911,8 @@ exit;
 ### Hasil
 ![gambar](ASET/php10.png)
 ### Analisis
-1. Kode program ini merupakan halaman untuk mengekspor data siswa ke dalam format file Excel (.xls).
-2. Pertama, program menyertakan file "koneksi.php" yang diduga berisi konfigurasi untuk koneksi ke database.
+1. Kode program ini merupakan halaman untuk mengekspor data siswa ke dalam format file Excel (.xls). 
+2. Pertama, program menyertakan file "koneksi.php" yang diduga berisi konfigurasi untuk koneksi ke database. 
 3. Program kemudian mengambil semua data dari tabel "siswa" menggunakan perintah `mysqli_query()`.
 4. Data yang diambil disimpan dalam sebuah array `$data`, di mana baris pertama berisi nama-nama kolom (ID, Nama, Email, Jenis Kelamin, Alamat).
 5. Program selanjutnya mengatur header HTTP untuk memaksa browser mengunduh file Excel, dengan nama file "excel_data.xls".

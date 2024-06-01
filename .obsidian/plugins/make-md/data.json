@@ -41,11 +41,12 @@
     "//Spaces/Spaces/Home",
     "//Spaces/Spaces/Home",
     "//image",
-    "//BASIS DATA",
+    "//asetphp",
+    "//CSS",
     "//CSS",
     "//PHP",
-    "//Pem.Web",
-    "//asetphp"
+    "//asetklm",
+    "//pseudo"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

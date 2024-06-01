@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a55def885397351",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BASIS DATA/ALTER.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "41f8a525bcae2d0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BASIS DATA/Pengenalan Basis Data.md",
+                "file": "BASIS DATA/Dasar basdat dan Query instal.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Pengenalan PHP.md",
+                "file": "pseudo/Pseudo-element.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Pengenalan PHP.md",
+                "file": "pseudo/Pseudo-element.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/Pengenalan PHP.md",
+                "file": "pseudo/Pseudo-element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,12 +147,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Pengenalan PHP.md"
+                "file": "pseudo/Pseudo-element.md"
               }
+            }
+          },
+          {
+            "id": "b6a87999c963f622",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,51 +180,51 @@
   },
   "active": "08e4fc991cd19b50",
   "lastOpenFiles": [
-    "PHP/PHP MY SQL.md",
+    "Pseudo-element.md",
+    "pseudo/aset/pe1.png",
+    "pseudo/aset/pe2.png",
+    "pseudo/aset",
+    "pseudo/New folder",
+    "pseudo/Pseudo-element.md",
+    "pseudo/pe2.png",
+    "pseudo/pe1.png",
+    "pseudo",
+    "New folder",
+    "pe2.png",
+    "pe1.png",
+    "Pasted image 20240601160957.png",
+    "Pasted image 20240601160831.png",
     "PHP/Pengenalan PHP.md",
-    "Praktikum klmpk yg tdk hadir.md",
-    "PHP/ASET/function.png",
+    "BASIS DATA/ALTER.md",
+    "BASIS DATA/SELECT LANJUTAN.md",
+    "BASIS DATA/Dasar basdat dan Query instal.md",
     "BASIS DATA/INSTALASI & QUERY AWAL DATABASE.md",
+    "BASIS DATA/BASIS DATA.md",
+    "CSS/Pengenalan CSS.md",
+    "BASIS DATA/asset/select9.png",
+    "BASIS DATA/asset/select8.png",
+    "BASIS DATA/asset",
+    "BASIS DATA/ASET/BASIS DATA.md",
+    "BASIS DATA/ASET/ALTER.md",
+    "BASIS DATA/ASET/asset",
+    "CSS/Semantic HTML.md",
+    "CSS/CSS Responsive.md",
+    "CSS + BOOSTRAP +RESPONSIVE.md",
+    "Praktikum klmpk yg tdk hadir.md",
+    "CSS/BOOTSTRAP.md",
+    "Pem.Web/Perkenalan HTML.md",
+    "PHP/PHP MY SQL.md",
     "PHP.zip",
-    "BASIS DATA/Pengenalan Basis Data.md",
-    "asetklm/tabel2.png",
-    "asetklm/tabel1.png",
-    "asetklm/q9.png",
-    "asetklm/q6.png",
-    "asetklm/q5.png",
-    "asetklm/q4.png",
-    "asetklm/q3.png",
-    "asetklm/q2.png",
-    "asetklm/q14.png",
     "asetklm",
     "asetphp",
-    "BASIS DATA/SELECT LANJUTAN.md",
     "Select Lanjutan_ANGGA.md",
     "ALTER_farhan.md",
     "PHP MYSQL farhan.md",
-    "CSS/Pengenalan CSS.md",
     "CSS/Select Lanjutan.md",
     "PHP MySQL.md",
     "Pem.Web/DESKRIPSI.md",
     "Pem.Web/TGS HTML/Pem.Web.md",
-    "Pem.Web/Perkenalan HTML.md",
-    "Pem.Web/TGS HTML/Pengenalan WEB.md",
-    "Pem.Web/TGS HTML/Perkenalan HTML.md",
-    "Pem.Web/Pengenalan WEB.md",
-    "Pem.Web/TGS HTML/DESKRIPSI.md",
-    "BASIS DATA/ALTER.md",
-    "BASIS.md",
-    "Pengenalan PHP rahmat.md",
-    "BASIS DATA/Praktikum.md",
     "BASIS DATA/asetprk",
-    "asetprk",
-    "ASSETPRK/ASSET PRK.md",
-    "ASSETPRK",
-    "PHP/ASET",
-    "PHP/New folder",
-    "PHP/PHP.md",
-    "PHP",
-    "BASIS DATA/asset",
     "Untitled.canvas"
   ]
 }

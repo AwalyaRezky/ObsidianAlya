@@ -85,6 +85,25 @@ Dalam contoh di atas, ketika pengguna memilih teks di dalam elemen yang mengguna
 
 Harap diingat bahwa dukungan untuk pseudo kelas ::selection dapat bervariasi di beberapa browser. Jadi, pastikan untuk menguji tampilan pada berbagai browser untuk memastikan konsistensi penampilan.
 # Kode Program
+ANALISIS
+1. **Struktur Dasar HTML**:
+    
+    - Dokumen ini dimulai dengan deklarasi `<!DOCTYPE html>` yang menandakan bahwa ini adalah dokumen HTML5.
+    - Elemen `<html>` merupakan elemen root yang berisi seluruh konten halaman web.
+    - Elemen `<head>` berisi metadata seperti judul halaman, viewport, dan link ke file CSS eksternal.
+    - Elemen `<body>` berisi struktur dan konten utama dari halaman web.
+2. **Struktur Konten dan Navigasi**:
+    
+    - Elemen `<header>` berisi navigasi untuk halaman web, dengan daftar tautan (`<ul>` dan `<li>`) yang mengarah ke bagian-bagian utama seperti "Home", "About", "Services", dan "Contact".
+    - Elemen `<main>` berisi konten utama yang terdiri dari beberapa `<section>` yang masing-masing memiliki judul dan teks.
+    - Elemen `<footer>` berisi informasi hak cipta.
+3. **Fitur Formulir Kontak**:
+    
+    - Bagian "Contact Us" berisi sebuah formulir dengan label, input teks, input email, textarea, dan tombol "Send".
+    - Atribut `required` pada input dan textarea memastikan bahwa pengguna harus mengisi semua field sebelum mengirim formulir.
+4. **Link CSS Eksternal**:
+    
+    - Halaman web ini menggunakan file CSS eksternal bernama "pseu.css" untuk menerapkan gaya dan format pada kontennya.
 ```HTML
 <!DOCTYPE html>
 <html lang="en">
@@ -206,6 +225,22 @@ Harap diingat bahwa dukungan untuk pseudo kelas ::selection dapat bervariasi di 
 </html>
 ```
 
+ANALISIS
+1. **Pseudo-element ::before**:
+    - Pada selector `nav ul li::before`, CSS menggunakan pseudo-element `::before` untuk menambahkan konten berupa simbol "-" sebelum setiap elemen `<li>` di dalam `<nav>`.
+    - Tujuannya adalah untuk memberikan visual cue atau tanda pada setiap item navigasi.
+2. **Pseudo-element ::after**:
+    - Pada selector `nav ul li a::after`, CSS menggunakan pseudo-element `::after` untuk menambahkan konten berupa simbol "»" setelah setiap tautan `<a>` di dalam `<li>`.
+    - Ini juga bertujuan untuk memberikan visual cue atau tanda pada setiap item navigasi.
+3. **Pseudo-element ::first-letter**:
+    - Pada selector `h1::first-letter`, CSS menggunakan pseudo-element `::first-letter` untuk membuat huruf pertama dari setiap judul `<h1>` menjadi lebih besar dan tebal.
+    - Ini merupakan salah satu cara untuk memperjelas atau menonjolkan huruf pertama dari judul.
+4. **Pseudo-element ::selection**:
+    - Pada selector `::selection`, CSS menggunakan pseudo-element `::selection` untuk mengubah warna latar belakang dan teks saat pengguna menyeleksi teks pada halaman.
+    - Ini dapat berguna untuk memberikan visual feedback atau penekanan pada teks yang diseleksi.
+5. **Gaya Umum**:
+    - Selebihnya, kode CSS mengatur gaya umum untuk elemen-elemen pada halaman, seperti font, margin, padding, warna, dan lain-lain.
+    - Ini memastikan halaman web memiliki tampilan yang konsisten dan estetis.
 ```CSS
 /* Pseudo-element ::before */
 
@@ -373,5 +408,4 @@ h1::before {
 ```
 # Hasil
 ![gambar](aset/pe1.png)
-
 ![gambar](aset/pe2.png)
